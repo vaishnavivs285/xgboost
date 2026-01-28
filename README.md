@@ -1,17 +1,18 @@
-# ❤️ Heart Disease Prediction using XGBoost  
+#  Heart Disease Prediction using XGBoost  
 ### (Gain-based Splitting & Regularization)
 
 ---
 
 ## 1. Dataset Used
 
-### 📊 Dataset Name  
+###  Dataset Name  
 **Heart Disease Dataset (UCI-inspired, Kaggle version)**
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-### 🔗 Source  
+### Source  
 Kaggle – Heart Disease Dataset (originally derived from the UCI Heart Disease dataset)
 
-### 🧾 Description  
+###  Description  
 This dataset contains clinical and diagnostic information used to predict whether a patient has heart disease.
 
 - Rows: ~1000+ patient records  
@@ -19,7 +20,7 @@ This dataset contains clinical and diagnostic information used to predict whethe
   - `0` → No heart disease  
   - `1` → Presence of heart disease  
 
-### 🧠 Features (examples)
+###  Features (examples)
 
 | Feature | Description |
 |------|------------|
@@ -32,7 +33,7 @@ This dataset contains clinical and diagnostic information used to predict whethe
 | ca | Number of major vessels |
 | thal | Thalassemia type |
 
-### 📌 Why this dataset?
+###  Why this dataset?
 - Real-world medical classification problem  
 - Binary outcome (ideal for classification)  
 - Moderate size (not toy, not extremely large)  
