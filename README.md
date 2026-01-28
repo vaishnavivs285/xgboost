@@ -37,7 +37,6 @@ This dataset contains clinical and diagnostic information used to predict whethe
 - Real-world medical classification problem  
 - Binary outcome (ideal for classification)  
 - Moderate size (not toy, not extremely large)  
-- Commonly used and interview-friendly  
 - Requires generalization, not memorization  
 
 ---
